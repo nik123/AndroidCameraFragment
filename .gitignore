@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+gen
+out
+bin
+*.log
+
+# Android Studio & Gradle:
+*.iml
+.gradle
+.idea
+build
+captures
+local.properties
